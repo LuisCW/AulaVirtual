@@ -7,3 +7,5 @@ Para hacerlo funcionar con el codigo orignal de React toca instalar node.js, cre
 Antes de ejecutar toca instalar las librerias de Firebase, Boostrap y react-router-dom con npm instal (libreria indicada) en la linea de comando
 
 Ejecutar el programa con npm start en el comando
+
+Los demas archivos son componentes creados por React para poder subirse y ser ejecutado en el servidor de github
