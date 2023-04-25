@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2cab247.css",
+    "main.js": "/static/js/main.35e92c76.js",
+    "static/media/tigre.jpg": "/static/media/tigre.1782c09a0d172b4fdbe5.jpg",
+    "index.html": "/index.html",
+    "main.c2cab247.css.map": "/static/css/main.c2cab247.css.map",
+    "main.35e92c76.js.map": "/static/js/main.35e92c76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.35e92c76.js"
+  ]
+}
