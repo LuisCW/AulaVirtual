@@ -9,3 +9,6 @@ Antes de ejecutar toca instalar las librerias de Firebase, Boostrap y react-rout
 Ejecutar el programa con npm start en el comando
 
 Los demas archivos son componentes creados por React para poder subirse y ser ejecutado en el servidor de github
+
+Los usuarios son: lugapemu98@gmail.com, lugapemu@hotmail.com, lperazam@unal.edu.co
+Contraseñas para los 3 usuarios: 123456
